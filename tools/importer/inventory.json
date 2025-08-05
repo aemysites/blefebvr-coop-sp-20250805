@@ -1,0 +1,275 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]"
+        }
+      ],
+      "styles": {
+        "height": 70,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-18-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-04-beeff831776883ffa03805c341bf24eef697ff60",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 4,
+      "source": "Carousel",
+      "target": "Carousel",
+      "key": "carousel4",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-05-41f4e18d3182f4a6519de1fb4fcaac70e6cdc3f0",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-08-099e30d6c049a88c2a8cfb7e38c5503ea46af982",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[7]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-10-87fe313de1d31e2632e8c95571aee320f8d0e33f",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[9]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-12-02a1c95d501d053552116b3e2d774812919f1571",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[10]/div[1]/div[1]/div[1]/article[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-13-e05f7b9054fb895fbc3204a68875319132d9242c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[11]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-14-d562837083378c81cac5d2283db06885a142cac7",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/aside[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-16-50855c98f75c426ebfa2a2a45afe42c337ea0d7b",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/nav[1]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-02-7a6ee2e961b5468961eeeb644940d0215bc225e7",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-03-e83009e5a1a051327b536953c48d52e720378353",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-06-958c268f3ad6abbcba9c4081d3adda084fd2e24a",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-07-89ee558129231da6e41c297f5e0ce8ad7e6a2dc5",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-09-57f3516ad44c004e6498d13d9e59284cf5f3e8be",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-11-befa659fb0e9a2890f3337e2b0df5d2a44caf094",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[10]/div[1]/div[1]/div[1]/article[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-15-dce3312ca32cb431a80454395786f163e8fdce4a",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/article[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-17-016ef35e9af2ba30e5a16cb7f10e88d89df68aa3",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-18-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+      "xpath": "/html[1]/body[1]/div[3]/div[4]",
+      "section": "section-1"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 13
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(246, 246, 246) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 5
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.taten-statt-worte.ch/content/taten-statt-worte/de/_jcr_content/parsys_startseite/kbk_059_teaser_image_1462745210/teaserImageText_lg_md.teaserimagetextlgmd.1260x420.jpg\") repeat scroll 0% 0% / cover padding-box border-box",
+      "count": 1
+    }
+  ]
+}
