@@ -1,0 +1,833 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__nav",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Standorte Kundendienst Nachhaltigkeit DE FR IT EN"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            },
+            {
+              "element_id": "html__body__div_3__nav",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Standorte Kundendienst Nachhaltigkeit DE FR IT EN"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ],
+      "styles": {
+        "height": 70,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-18-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__div_4",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "\u00a9 Coop Impressum Datenschutz"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__nav",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Standorte Kundendienst Nachhaltigkeit DE FR IT EN"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            },
+            {
+              "element_id": "html__body__div_3__nav",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Standorte Kundendienst Nachhaltigkeit DE FR IT EN"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__header",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "/de.html "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Men\u00fc schliessen Tag der guten Tat Unsere Taten Aktuelles Nachhaltigkeitsthemen Hintergr\u00fcnde Alle Bereiche"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": " /de.html"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " Tag der guten Tat Unsere Taten Aktuelles Nachhaltigkeitsthemen Hintergr\u00fcnde Aktuelles Nachhaltigkeitsblog Plastikreduktion Nachhaltigkeit im Alltag Nachhaltigkeitsthemen Ern\u00e4hrung und Gesundheit Gesellschaft Tierwohl Landwirtschaft und Verarbeitung Umwelt und Klima Hintergr\u00fcnde Meilensteine und Auszeichnungen Nachhaltigkeit bei Coop Partner und Stakeholder Prinzipien und Richtlinien Mitarbeitende Ern\u00e4hrung Gesundheitsf\u00f6rderung Fairtrade Gesellschaftliches Engagement Kinder & Jugendliche Patenschaft f\u00fcr Berggebiete Fonds f\u00fcr Nachhaltigkeit Engagement zum Wohl der Tiere Nachhaltiger Fisch Bio Regionale Produkte Rohstoffe Nat\u00fcrliche Ressourcen Transparenz Abfall und Recycling Energie und Klimaschutz Verpackungen Kreislaufwirtschaft Klimaschutzprojekte Meilensteine Auszeichnungen Strategie Nachhaltigkeits-Kommunikation Policy Paper und Richtlinien Gesch\u00e4ftsprinzipien Nachhaltigkeitsblog Neuigkeiten und Videos sowie Hinweise auf spannende Artikel \u00fcber unser vielf\u00e4ltiges Engagement f\u00fcr einen nachhaltigen Konsum, Umweltschutz und Soziales. Zu den Neuigkeiten Ern\u00e4hrung und Gesundheitsf\u00f6rderung Eine ausgewogene Ern\u00e4hrung und ausreichend Bewegung sind essenziell f\u00fcr die Gesundheit. Unsere Ern\u00e4hrungs- und Bewegungsprojekte unterst\u00fctzen Sie dabei. Mehr erfahren Meilensteine und Auszeichnungen Wir arbeiten seit Jahrzehnten an nachhaltigen Produktinnovationen, nachhaltigen Standards und am Umweltschutz. Daf\u00fcr wurden wir mehrfach ausgezeichnet. Mehr erfahren"
+                }
+              ],
+              "dissimilarity_score": 0.01
+            }
+          ],
+          "similarity_score": 0.99
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-04-beeff831776883ffa03805c341bf24eef697ff60",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 4,
+      "source": "Carousel",
+      "target": "Carousel",
+      "key": "carousel4",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-05-41f4e18d3182f4a6519de1fb4fcaac70e6cdc3f0",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[2]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__main__div_5__div__section__div_2",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Tat"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Nr. 411 Coop-Supermarkt, der von Lernenden geleitet wird. Tat Nr. 410 Ambitionierte Klimastrategie f\u00fcr die ganze Coop-Gruppe. Tat Nr. 409 Pro Montagna Bio-Gitzi aus den Schweizer Bergregionen. Tat Nr. 408 Wir f\u00f6rdern innovative Ideen und Produkte. "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 423 Unsere Oecoplan Textilreinigung bieten wir seit 1997 an. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 422 Wir bieten Demeter-Bio-Fleischpakete an. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 421 Nice to Save Food f\u00fcr innovative, genussvolle Lebensmittel. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 420 Wir setzen auf Bio- und Fairtrade-zertifizierten Rohrzucker. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 419 Bio-Fairtrade-zertifiziertes Kokos\u00f6l aus der Elfenbeink\u00fcste. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 418 Existenzsichernde L\u00f6hne f\u00fcr Arbeiter:innen in China. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 417 Wir sind Hauptsponsorin des gr\u00f6ssten Schweizer Bio-Markts. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 416 Immer im Mai findet der Tag der guten Tat statt. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 415 Wir haben Milch und Milchprodukte in PET-Flaschen lanciert. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 414 Secondhand-Shop f\u00fcr unsere Arbeitsbekleidung. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 413 Wir bieten Programme f\u00fcr den Quereinstieg an. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 412 Existenzsicherndes Einkommen bei Naturaplan-Kaffee. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 411 Coop-Supermarkt, der von Lernenden geleitet wird. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 410 Ambitionierte Klimastrategie f\u00fcr die ganze Coop-Gruppe. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 409 Pro Montagna Bio-Gitzi aus den Schweizer Bergregionen. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "null "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Tat Nr. 408 Wir f\u00f6rdern innovative Ideen und Produkte"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": ". Tat Nr. 423 Unsere Oecoplan Textilreinigung bieten wir seit 1997 an. Tat Nr. 422 Wir bieten Demeter-Bio-Fleischpakete an. Tat Nr. 421 Nice to Save Food f\u00fcr innovative, genussvolle Lebensmittel. Tat Nr. 420 Wir setzen auf Bio- und Fairtrade-zertifizierten Rohrzucker"
+                },
+                {
+                  "change_type": "equal",
+                  "text": "."
+                }
+              ],
+              "dissimilarity_score": 0.22
+            }
+          ],
+          "similarity_score": 0.78
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-08-099e30d6c049a88c2a8cfb7e38c5503ea46af982",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[7]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__main__div_7",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Plastikreduktion Nachhaltig produzierte Produkte finden Sie bei uns vermehrt ohne Plastikverpackung. Mehr erfahren Nachhaltigkeit im Alltag Mit ganz einfachen Tipps und Gewohnheiten k\u00f6nnen Sie Nachhaltigkeit in Ihren Alltag integrieren. Jetzt entdecken Neuigkeiten Entdecken Sie hier Neuigkeiten \u00fcber unser vielf\u00e4ltiges Engagement im Bereich Nachhaltigkeit. Alle Neuigkeiten im \u00dcberblick"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-10-87fe313de1d31e2632e8c95571aee320f8d0e33f",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[9]",
+          "section": "section-3",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__main__div_9",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Als nachhaltigste Detailh\u00e4ndlerin der Welt bestimmen \u00dcberlegungen zu Mensch, Tier und Natur unser Handeln. Erfahren Sie mehr \u00fcber unsere Motivation. Zu unseren Themen"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-12-02a1c95d501d053552116b3e2d774812919f1571",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[10]/div[1]/div[1]/div[1]/article[1]/div[2]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__main__div_10__div__div__div__article__div_2",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "\u00d7 schliessen "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Als Genossenschaft verstehen wir uns als Teil der Gesellschaft und engagieren uns f\u00fcr einen nachhaltigen Konsum. Erfahren Sie mehr \u00fcber unseren Nachhaltigkeitsansatz, lernen Sie unsere Labels und deren Richtlinien kennen und entdecken Sie unsere Meilensteine und Auszeichnungen. Entdecken Sie die Hintergr\u00fcnde"
+                }
+              ],
+              "dissimilarity_score": 0.01
+            }
+          ],
+          "similarity_score": 0.99
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-13-e05f7b9054fb895fbc3204a68875319132d9242c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[11]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__main__div_11",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "So bleiben Sie informiert "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Nachhaltigkeitsstrategie Nachhaltigkeit ist bei uns fest verankert. Unsere Nachhaltigkeits-Strategie Fortschrittsbericht Zahlen und Fakten zu unserem Nachhaltigkeitsengagement. Zum Bericht Nachhaltigkeitsstrategie-Brosch\u00fcre Die Nachhaltigkeitsstrategie der Coop-Gruppe auf einen Blick Jetzt ansehen"
+                }
+              ],
+              "dissimilarity_score": 0.09
+            }
+          ],
+          "similarity_score": 0.91
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-14-d562837083378c81cac5d2283db06885a142cac7",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/aside[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.taten-statt-worte.ch/de.html",
+          "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+          "uuid": "029f1f2f-16-50855c98f75c426ebfa2a2a45afe42c337ea0d7b",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/nav[1]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3__footer__div__nav",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Taten statt Worte Aktuelles Unsere Taten Nachhaltigkeitsthemen Hintergr\u00fcnde Unternehmen \u00dcber uns Medien Nachhaltigkeit Sponsoring Karriere Jobs Services Standorte & \u00d6ffnungszeiten Coopzeitung Kundendienst Gesch\u00e4ftsbericht Adressen Mehr zu Coop Coop Online Supermarkt L\u00e4den & Services Supercard Hello Family Club Mondovino"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-02-7a6ee2e961b5468961eeeb644940d0215bc225e7",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-03-e83009e5a1a051327b536953c48d52e720378353",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-06-958c268f3ad6abbcba9c4081d3adda084fd2e24a",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/section[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-07-89ee558129231da6e41c297f5e0ce8ad7e6a2dc5",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-09-57f3516ad44c004e6498d13d9e59284cf5f3e8be",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-11-befa659fb0e9a2890f3337e2b0df5d2a44caf094",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[10]/div[1]/div[1]/div[1]/article[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-15-dce3312ca32cb431a80454395786f163e8fdce4a",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/article[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-17-016ef35e9af2ba30e5a16cb7f10e88d89df68aa3",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "urlHash": "029f1f2fbbbab8365a1b876fca0a2afc228cba11",
+      "uuid": "029f1f2f-18-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+      "xpath": "/html[1]/body[1]/div[3]/div[4]",
+      "section": "section-1",
+      "differences": [
+        {
+          "element_id": "html__body__div_3__div_4",
+          "differences": [
+            {
+              "change_type": "equal",
+              "text": "\u00a9 Coop Impressum Datenschutz"
+            }
+          ],
+          "dissimilarity_score": -0.0
+        }
+      ],
+      "similarity_score": 0.0
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Standorte Kundendienst Nachhaltigkeit DE"
+        },
+        {
+          "change_type": "deletion",
+          "text": " FR IT EN"
+        },
+        {
+          "change_type": "insertion",
+          "text": " (/de.html) /de.html"
+        },
+        {
+          "change_type": "equal",
+          "text": " Men\u00fc schliessen Tag der guten Tat Unsere Taten Aktuelles Nachhaltigkeitsthemen Hintergr\u00fcnde Alle Bereiche"
+        },
+        {
+          "change_type": "insertion",
+          "text": " /de.html"
+        },
+        {
+          "change_type": "equal",
+          "text": " Tag der guten Tat Unsere Taten Aktuelles Nachhaltigkeitsthemen Hintergr\u00fcnde Aktuelles Nachhaltigkeitsblog Plastikreduktion Nachhaltigkeit im Alltag Nachhaltigkeitsthemen Ern\u00e4hrung und Gesundheit Gesellschaft Tierwohl Landwirtschaft und Verarbeitung Umwelt und Klima Hintergr\u00fcnde Meilensteine und Auszeichnungen Nachhaltigkeit bei Coop Partner und Stakeholder Prinzipien und Richtlinien Mitarbeitende Ern\u00e4hrung Gesundheitsf\u00f6rderung Fairtrade Gesellschaftliches Engagement Kinder & Jugendliche Patenschaft f\u00fcr Berggebiete Fonds f\u00fcr Nachhaltigkeit Engagement zum Wohl der Tiere Nachhaltiger Fisch Bio Regionale Produkte Rohstoffe Nat\u00fcrliche Ressourcen Transparenz Abfall und Recycling Energie und Klimaschutz Verpackungen Kreislaufwirtschaft Klimaschutzprojekte Meilensteine Auszeichnungen Strategie Nachhaltigkeits-Kommunikation Policy Paper und Richtlinien Gesch\u00e4ftsprinzipien Nachhaltigkeitsblog Neuigkeiten und Videos sowie Hinweise auf spannende Artikel \u00fcber unser vielf\u00e4ltiges Engagement f\u00fcr einen nachhaltigen Konsum, Umweltschutz und Soziales. Zu den Neuigkeiten Ern\u00e4hrung und Gesundheitsf\u00f6rderung Eine ausgewogene Ern\u00e4hrung und ausreichend Bewegung sind essenziell f\u00fcr die Gesundheit. Unsere Ern\u00e4hrungs- und Bewegungsprojekte unterst\u00fctzen Sie dabei. Mehr erfahren Meilensteine und Auszeichnungen Wir arbeiten seit Jahrzehnten an nachhaltigen Produktinnovationen, nachhaltigen Standards und am Umweltschutz. Daf\u00fcr wurden wir mehrfach ausgezeichnet. Mehr erfahren TATEN STATT WORTE HEISST MACHEN, NICHT REDEN Wir reden nicht, wir machen: Unter dem Motto \u00abTaten statt Worte\u00bb fassen wir unser Nachhaltigkeits-Engagement f\u00fcr Mensch, Tier und Natur zusammen. Erfahren Sie hier mehr \u00fcber unseren Einsatz f\u00fcr einen nachhaltigen Konsum und entdecken Sie unsere neusten Taten! TATEN STATT WORTE TATEN STATT WORTE MACHT VORW\u00c4RTS Entdecken Sie \u00fcber 400 Taten f\u00fcr mehr Nachhaltigkeit. Es kommen laufend neue dazu! Technischer Fehler Es ist ein Fehler aufgetreten! Die Daten konnten nicht abgerufen werden, bitte laden Sie die Seite erneut. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Tat Nr. 411 Coop-Supermarkt, der von Lernenden geleitet"
+        },
+        {
+          "change_type": "insertion",
+          "text": "null"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "wird. Tat Nr. 410 Ambitionierte Klimastrategie f\u00fcr die ganze Coop-Gruppe. Tat Nr. 409 Pro Montagna Bio-Gitzi aus den Schweizer Bergregionen. Tat Nr. 408 Wir f\u00f6rdern innovative Ideen und Produkte. "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 423 Unsere Oecoplan Textilreinigung bieten wir seit 1997 an. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 422 Wir bieten Demeter-Bio-Fleischpakete an. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 421 Nice to Save Food f\u00fcr innovative, genussvolle Lebensmittel. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 420 Wir setzen auf Bio- und Fairtrade-zertifizierten Rohrzucker. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 419 Bio-Fairtrade-zertifiziertes Kokos\u00f6l aus der Elfenbeink\u00fcste. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 418 Existenzsichernde L\u00f6hne f\u00fcr Arbeiter:innen in China. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 417 Wir sind Hauptsponsorin des gr\u00f6ssten Schweizer Bio-Markts. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 416 Immer im Mai findet der Tag der guten Tat statt. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 415 Wir haben Milch und Milchprodukte in PET-Flaschen lanciert. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 414 Secondhand-Shop f\u00fcr unsere Arbeitsbekleidung. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 413 Wir bieten Programme f\u00fcr den Quereinstieg an. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 412 Existenzsicherndes Einkommen bei Naturaplan-Kaffee. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 411 Coop-Supermarkt, der von Lernenden geleitet wird. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 410 Ambitionierte Klimastrategie f\u00fcr die ganze Coop-Gruppe. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 409 Pro Montagna Bio-Gitzi aus den Schweizer Bergregionen. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "null "
+        },
+        {
+          "change_type": "equal",
+          "text": "Tat Nr. 408 Wir f\u00f6rdern innovative Ideen und Produkte. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Tat Nr. 423 Unsere Oecoplan Textilreinigung bieten wir seit 1997 an. Tat Nr. 422 Wir bieten Demeter-Bio-Fleischpakete an. Tat Nr. 421 Nice to Save Food f\u00fcr innovative, genussvolle Lebensmittel. Tat Nr. 420 Wir setzen auf Bio- und Fairtrade-zertifizierten Rohrzucker. "
+        },
+        {
+          "change_type": "equal",
+          "text": "Alle Taten entdecken TATEN STATT WORTE INFORMIERT Plastikreduktion Nachhaltig produzierte Produkte finden Sie bei uns vermehrt ohne Plastikverpackung. Mehr erfahren Nachhaltigkeit im Alltag Mit ganz einfachen Tipps und Gewohnheiten k\u00f6nnen Sie Nachhaltigkeit in Ihren Alltag integrieren. Jetzt entdecken Neuigkeiten Entdecken Sie hier Neuigkeiten \u00fcber unser vielf\u00e4ltiges Engagement im Bereich Nachhaltigkeit. Alle Neuigkeiten im \u00dcberblick TATEN STATT WORTE IST VIELF\u00c4LTIG Als nachhaltigste Detailh\u00e4ndlerin der Welt bestimmen \u00dcberlegungen zu Mensch, Tier und Natur unser Handeln. Erfahren Sie mehr \u00fcber unsere Motivation. Zu unseren Themen TATEN STATT WORTE HAT SYSTEM"
+        },
+        {
+          "change_type": "deletion",
+          "text": " \u00d7 schliessen"
+        },
+        {
+          "change_type": "equal",
+          "text": " Als Genossenschaft verstehen wir uns als Teil der Gesellschaft und engagieren uns f\u00fcr einen nachhaltigen Konsum. Erfahren Sie mehr \u00fcber unseren Nachhaltigkeitsansatz, lernen Sie unsere Labels und deren Richtlinien kennen und entdecken Sie unsere Meilensteine und Auszeichnungen. Entdecken Sie die Hintergr\u00fcnde "
+        },
+        {
+          "change_type": "deletion",
+          "text": "So bleiben Sie informiert "
+        },
+        {
+          "change_type": "equal",
+          "text": "Nachhaltigkeitsstrategie Nachhaltigkeit ist bei uns fest verankert. Unsere Nachhaltigkeits-Strategie Fortschrittsbericht Zahlen und Fakten zu unserem Nachhaltigkeitsengagement. Zum Bericht Nachhaltigkeitsstrategie-Brosch\u00fcre Die Nachhaltigkeitsstrategie der Coop-Gruppe auf einen Blick Jetzt ansehen Seite teilen: \u00d7 schliessen Teilen Sie unsere Seite: "
+        },
+        {
+          "change_type": "insertion",
+          "text": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html&text= whatsapp://send?text=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html&title= https://www.xing.com/app/user?op=share&url=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html mailto:?&subject=&body=https%3A%2F%2Fwww.taten-statt-worte.ch%2Fde.html "
+        },
+        {
+          "change_type": "equal",
+          "text": "Taten statt Worte Aktuelles Unsere Taten Nachhaltigkeitsthemen Hintergr\u00fcnde Unternehmen \u00dcber uns Medien Nachhaltigkeit Sponsoring Karriere Jobs Services Standorte & \u00d6ffnungszeiten Coopzeitung Kundendienst Gesch\u00e4ftsbericht Adressen Mehr zu Coop Coop Online Supermarkt L\u00e4den & Services Supercard Hello Family Club Mondovino Folgen Sie uns"
+        },
+        {
+          "change_type": "deletion",
+          "text": " \u00a9 Coop"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Impressum"
+        },
+        {
+          "change_type": "insertion",
+          "text": "https://www.facebook.com/coop.ch"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Datenschutz"
+        },
+        {
+          "change_type": "insertion",
+          "text": "https://twitter.com/coop_ch https://www.instagram.com/coop.ch/ https://www.youtube.com/coopschweiz https://www.xing.com/companies/coop https://www.linkedin.com/company/coop_2/ https://www.kununu.com/ch/coop"
+        },
+        {
+          "change_type": "equal",
+          "text": " \u00c3\u2014 schliessen "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Suchen... "
+        },
+        {
+          "change_type": "equal",
+          "text": "Home Tag der guten Tat Unsere Taten Aktuelles Aktuelles Nachhaltigkeitsblog Plastikreduktion Nachhaltigkeit im Alltag Nachhaltigkeitsthemen Nachhaltigkeitsthemen Ern\u00e4hrung und Gesundheit Ern\u00e4hrung und Gesundheit Ern\u00e4hrung Gesundheitsf\u00f6rderung Gesellschaft Gesellschaft Fairtrade Fairtrade Sozialstandards Gesellschaftliches Engagement Kinder & Jugendliche Patenschaft f\u00fcr Berggebiete Fonds f\u00fcr Nachhaltigkeit Fonds f\u00fcr Nachhaltigkeit Innovationsprojekte Sensibilisierungsprojekte Projekte f\u00fcr Mitarbeitende und Gesellschaft Projekte mit dem FIBL Tierwohl Tierwohl Engagement zum Wohl der Tiere Nachhaltiger Fisch Nachhaltiger Fisch Wildfang Zucht Schweizer Fisch Landwirtschaft und Verarbeitung Landwirtschaft und Verarbeitung Bio Regionale Produkte Rohstoffe Rohstoffe Palm\u00f6l Soja Kaffee Reis Kakao Fr\u00fcchte und Gem\u00fcse Torf Holz und Papier Textil Textil Detox Bio-Baumwolle Closing the loop Nat\u00fcrliche Ressourcen Nat\u00fcrliche Ressourcen Wasser Biodiversit\u00e4t Boden Transparenz Umwelt und Klima Umwelt und Klima Abfall und Recycling Energie und Klimaschutz Energie und Klimaschutz Verkaufsstellen Produktionsbetriebe Transport Produkte Verpackungen Verpackungen Bioplastik Kreislaufwirtschaft Klimaschutzprojekte Hintergr\u00fcnde Hintergr\u00fcnde Meilensteine und Auszeichnungen Meilensteine und Auszeichnungen Meilensteine Auszeichnungen Nachhaltigkeit bei Coop Nachhaltigkeit bei Coop Strategie Nachhaltigkeits-Kommunikation Partner und Stakeholder Prinzipien und Richtlinien Prinzipien und Richtlinien Policy Paper und Richtlinien Gesch\u00e4ftsprinzipien Mitarbeitende Standorte Kundendienst Nachhaltigkeit"
+        },
+        {
+          "change_type": "insertion",
+          "text": " \u00a9 Coop Impressum Datenschutz"
+        }
+      ],
+      "similarity_score": 0.8536221385924148
+    }
+  ]
+}
