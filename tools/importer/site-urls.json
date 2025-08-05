@@ -1,0 +1,17 @@
+{
+  "originUrl": "https://www.taten-statt-worte.ch",
+  "urls": [
+    {
+      "url": "https://www.taten-statt-worte.ch/de.html",
+      "source": "MANUAL",
+      "targetPath": "/de",
+      "id": "029f1f2fbbbab8365a1b876fca0a2afc228cba11"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}
